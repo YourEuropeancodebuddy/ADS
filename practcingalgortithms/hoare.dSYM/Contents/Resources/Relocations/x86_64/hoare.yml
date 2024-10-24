@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/gerardnahimana/Desktop/spring Semester 2024/Data _Structuresand_algorithms/practcingalgortithms/hoare'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9partitionPiii, symObjAddr: 0x0, symBinAddr: 0x100003D00, symSize: 0xC0 }
+  - { offsetInCU: 0xB38, offset: 0xB38, size: 0x8, addend: 0x0, symName: __ZNSt3__14swapB7v160006IiEENS_9enable_ifIXaasr21is_move_constructibleIT_EE5valuesr18is_move_assignableIS2_EE5valueEvE4typeERS2_S5_, symObjAddr: 0xC0, symBinAddr: 0x100003DC0, symSize: 0x30 }
+  - { offsetInCU: 0x2D32, offset: 0x2D32, size: 0x8, addend: 0x0, symName: __Z9partitionPiii, symObjAddr: 0x0, symBinAddr: 0x100003D00, symSize: 0xC0 }
+  - { offsetInCU: 0x2DA4, offset: 0x2DA4, size: 0x8, addend: 0x0, symName: __Z9quickSortPiii, symObjAddr: 0xF0, symBinAddr: 0x100003DF0, symSize: 0x60 }
+  - { offsetInCU: 0x2E04, offset: 0x2E04, size: 0x8, addend: 0x0, symName: __Z10printArrayPii, symObjAddr: 0x150, symBinAddr: 0x100003E50, symSize: 0x60 }
+  - { offsetInCU: 0x2E56, offset: 0x2E56, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B0, symBinAddr: 0x100003EB0, symSize: 0xA7 }
+...
